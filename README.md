@@ -11,6 +11,7 @@ private-channel updates when Pusher is configured.
 **Live demo:** <https://virgosoft.thavarshan.com/>.
 The login page lists the two pre-funded demo accounts and fills the form for
 you.
+> Demo no longer available.
 
 ## Screenshots
 
