@@ -1,6 +1,6 @@
-# Virgosoft Exchange
+# Victus Exchange
 
-Virgosoft Exchange is a Laravel 13 cryptocurrency limit-order trading
+Victus Exchange is a Laravel 13 cryptocurrency limit-order trading
 assessment. The backend implements wallet balances, buy and sell reservations,
 cancellation, an open orderbook, full-match settlement, order history,
 commission calculation, PostgreSQL concurrency protection, and optional
@@ -8,7 +8,7 @@ persisted trade records. The Inertia/Vue screens provide the live trading demo
 with limit-order placement, wallet/order history, orderbook polling, and
 private-channel updates when Pusher is configured.
 
-**Live demo:** <https://virgosoft.thavarshan.com/>.
+**Live demo:** <https://victus.thavarshan.com/>.
 The login page lists the two pre-funded demo accounts and fills the form for
 you.
 > Demo no longer available.
